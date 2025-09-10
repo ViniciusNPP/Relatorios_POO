@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rapos\\source\\repos\\Roteiro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4959315-7EDA-421F-988B-F3E5A8E8205A}|Roteiro\\Roteiro.csproj|c:\\users\\rapos\\source\\repos\\roteiro\\roteiro\\roteiro2\\elevador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4959315-7EDA-421F-988B-F3E5A8E8205A}|Roteiro\\Roteiro.csproj|solutionrelative:roteiro\\roteiro2\\elevador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4959315-7EDA-421F-988B-F3E5A8E8205A}|Roteiro\\Roteiro.csproj|c:\\users\\rapos\\source\\repos\\roteiro\\roteiro\\programa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4959315-7EDA-421F-988B-F3E5A8E8205A}|Roteiro\\Roteiro.csproj|solutionrelative:roteiro\\programa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Elevador.cs",
+              "DocumentMoniker": "C:\\Users\\rapos\\source\\repos\\Roteiro\\Roteiro\\Roteiro2\\Elevador.cs",
+              "RelativeDocumentMoniker": "Roteiro\\Roteiro2\\Elevador.cs",
+              "ToolTip": "C:\\Users\\rapos\\source\\repos\\Roteiro\\Roteiro\\Roteiro2\\Elevador.cs*",
+              "RelativeToolTip": "Roteiro\\Roteiro2\\Elevador.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowDYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T17:28:53.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Programa.cs",
+              "DocumentMoniker": "C:\\Users\\rapos\\source\\repos\\Roteiro\\Roteiro\\Programa.cs",
+              "RelativeDocumentMoniker": "Roteiro\\Programa.cs",
+              "ToolTip": "C:\\Users\\rapos\\source\\repos\\Roteiro\\Roteiro\\Programa.cs",
+              "RelativeToolTip": "Roteiro\\Programa.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAcwEwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T15:47:08.624Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
