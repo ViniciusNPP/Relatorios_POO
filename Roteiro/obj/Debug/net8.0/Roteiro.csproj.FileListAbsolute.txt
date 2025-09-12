@@ -12,3 +12,4 @@ C:\Users\rapos\source\repos\Roteiro\Roteiro\obj\Debug\net8.0\refint\Roteiro.dll
 C:\Users\rapos\source\repos\Roteiro\Roteiro\obj\Debug\net8.0\Roteiro.pdb
 C:\Users\rapos\source\repos\Roteiro\Roteiro\obj\Debug\net8.0\Roteiro.genruntimeconfig.cache
 C:\Users\rapos\source\repos\Roteiro\Roteiro\obj\Debug\net8.0\ref\Roteiro.dll
+C:\Users\rapos\source\repos\Roteiro\Roteiro\obj\Debug\net8.0\Roteiro.sourcelink.json

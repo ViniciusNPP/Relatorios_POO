@@ -1,5 +1,8 @@
 ﻿using Roteiro.Roteiro1;
 using Roteiro.Roteiro2;
+using Roteiro.Roteiro3;
+using Roteiro.Roteiro3.Roteiro3._3;
+using Roteiro.Roteiro3.Roteiro3._4;
 using System;
 
 namespace Roteiro
@@ -78,6 +81,36 @@ namespace Roteiro
             e.Descer(); // Deve continuar em 0
             */
 
+            //ANIMAL
+            /*
+            Animal a = new Animal();
+            a.emitirSom();
+            Cachorro c = new Cachorro();
+            c.emitirSom();
+            */
+
+            //PEDIDO
+            /*
+            Cliente cliente = new Cliente();
+            cliente.RealizarPedido("Cachorro Quente");
+            */
+
+            //INTERFACE VEÍCULO
+            /*
+            Carro_ carro = new Carro_();
+            Bicicleta bike = new Bicicleta();
+            carro.Mover();
+            bike.Mover();
+            */
+
+            //INTERFACE VOAR E NADAR
+            Aguia aguia = new Aguia();
+            Peixe peixe = new Peixe();
+            Pato pato = new Pato();
+            aguia.Voar();
+            peixe.Nadar();
+            pato.Voar();
+            pato.Nadar();
         }
     }
 }
