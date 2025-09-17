@@ -3,6 +3,8 @@ using Roteiro.Roteiro2;
 using Roteiro.Roteiro3;
 using Roteiro.Roteiro3.Roteiro3._3;
 using Roteiro.Roteiro3.Roteiro3._4;
+using Roteiro.Roteiro4.Roteiro4._1;
+using Roteiro.Roteiro4.Roteiro4._2;
 using System;
 
 namespace Roteiro
@@ -11,8 +13,9 @@ namespace Roteiro
     {
         static void Main(string[] args)
         {
-            //PESSOA
-            /*
+            Console.WriteLine("PESSOA");
+            Console.WriteLine("===================================");
+
             Pessoa p = new Pessoa();
             p.idade = 12;
             p.nome = "Roberto";
@@ -39,10 +42,12 @@ namespace Roteiro
             p3.cargo = "Desenvolvedor";
             p3.apresentar();
             p3.apresentarSalario();
-            */
 
-            //FANTASMINHA
-            /*Fantasminha f1 = new Fantasminha();
+            Console.WriteLine("===================================");
+            Console.WriteLine("FANTASMINHA");
+            Console.WriteLine("===================================");
+
+            Fantasminha f1 = new Fantasminha();
 
             f1.nick = "Rick";
             f1.cor = "Vermelho";
@@ -50,27 +55,30 @@ namespace Roteiro
 
             f1.gerarFantasminha();
             f1.Mover("direita");
-            */
 
-            //PRODUTO
-            /*
-             * Produto p = new Produto("Celular", 1500);
-            p.ExibirDetalhes();
-            p.Preco = -200;
-            */
+            Console.WriteLine("===================================");
+            Console.WriteLine("PRODUTO");
+            Console.WriteLine("===================================");
 
-            //CARRO
-            /*
+            Produto pe = new Produto("Celular", 1500);
+            pe.ExibirDetalhes();
+            pe.Preco = -200;
+
+            Console.WriteLine("===================================");
+            Console.WriteLine("CARRO");
+            Console.WriteLine("===================================");
+
             Carro c = new Carro("Ferrari");
             c.Acelerar(50);
             Console.WriteLine(c.VelocidadeAtual); // Deve exibir 50
             c.Frear(30);
             Console.WriteLine(c.VelocidadeAtual); // Deve exibir 20
             c.Frear(50); // Não pode ficar negativo, deve exibir 0
-            */
 
-            //ELEVADOR
-            /*
+            Console.WriteLine("===================================");
+            Console.WriteLine("ELEVADOR");
+            Console.WriteLine("===================================");
+
             Elevador e = new Elevador(10); // 10 andares
             e.Subir();
             e.Subir();
@@ -79,31 +87,36 @@ namespace Roteiro
             Console.WriteLine(e.AndarAtual); // Deve exibir 1
             e.Descer();
             e.Descer(); // Deve continuar em 0
-            */
 
-            //ANIMAL
-            /*
+            Console.WriteLine("===================================");
+            Console.WriteLine("ANIMAL");
+            Console.WriteLine("===================================");
+
             Animal a = new Animal();
             a.emitirSom();
-            Cachorro c = new Cachorro();
-            c.emitirSom();
-            */
+            Cachorro ca = new Cachorro();
+            ca.emitirSom();
 
-            //PEDIDO
-            /*
+            Console.WriteLine("===================================");
+            Console.WriteLine("PEDIDO");
+            Console.WriteLine("===================================");
+
             Cliente cliente = new Cliente();
             cliente.RealizarPedido("Cachorro Quente");
-            */
 
-            //INTERFACE VEÍCULO
-            /*
+            Console.WriteLine("===================================");
+            Console.WriteLine("INTERFACE VEÍCULO");
+            Console.WriteLine("===================================");
+
             Carro_ carro = new Carro_();
             Bicicleta bike = new Bicicleta();
             carro.Mover();
             bike.Mover();
-            */
 
-            //INTERFACE VOAR E NADAR
+            Console.WriteLine("===================================");
+            Console.WriteLine("INTERFACE VOAR E NADAR");
+            Console.WriteLine("===================================");
+
             Aguia aguia = new Aguia();
             Peixe peixe = new Peixe();
             Pato pato = new Pato();
@@ -111,6 +124,40 @@ namespace Roteiro
             peixe.Nadar();
             pato.Voar();
             pato.Nadar();
+
+            Console.WriteLine("===================================");
+            Console.WriteLine("PAGAMENTOS");
+            Console.WriteLine("===================================");
+
+            string[] metodoPagamento = { "pix", "cartao", "boleto" };
+
+            foreach (var i in metodoPagamento)
+            {
+                if (i == "pix")
+                {
+                    Pix pix = new Pix();
+                    pix.ProcessarPagamento();
+                }
+                else if (i == "cartao")
+                {
+                    CartaoCredito cartao = new CartaoCredito();
+                    cartao.ProcessarPagamento();
+                }
+                else
+                {
+                    BoletoBancario boleto = new BoletoBancario();
+                    boleto.ProcessarPagamento();
+                }
+            }
+
+            Console.WriteLine("===================================");
+            Console.WriteLine("FUNCIONÁRIOS");
+            Console.WriteLine("===================================");
+
+            Gerente g = new Gerente() { Salario = 5000 };
+            g.CalcularSalario();
+            Programador pr = new Programador() { Salario = 5000 };
+            pr.CalcularSalario();
         }
     }
 }

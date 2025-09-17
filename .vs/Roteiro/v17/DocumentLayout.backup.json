@@ -5,26 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E4959315-7EDA-421F-988B-F3E5A8E8205A}|Roteiro\\Roteiro.csproj|c:\\users\\rapos\\source\\repos\\roteiro\\roteiro\\programa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4959315-7EDA-421F-988B-F3E5A8E8205A}|Roteiro\\Roteiro.csproj|solutionrelative:roteiro\\programa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4959315-7EDA-421F-988B-F3E5A8E8205A}|Roteiro\\Roteiro.csproj|c:\\users\\rapos\\source\\repos\\roteiro\\roteiro\\roteiro3\\roteiro3.4\\aguia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4959315-7EDA-421F-988B-F3E5A8E8205A}|Roteiro\\Roteiro.csproj|solutionrelative:roteiro\\roteiro3\\roteiro3.4\\aguia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4959315-7EDA-421F-988B-F3E5A8E8205A}|Roteiro\\Roteiro.csproj|c:\\users\\rapos\\source\\repos\\roteiro\\roteiro\\roteiro3\\roteiro3.4\\peixe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4959315-7EDA-421F-988B-F3E5A8E8205A}|Roteiro\\Roteiro.csproj|solutionrelative:roteiro\\roteiro3\\roteiro3.4\\peixe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4959315-7EDA-421F-988B-F3E5A8E8205A}|Roteiro\\Roteiro.csproj|c:\\users\\rapos\\source\\repos\\roteiro\\roteiro\\roteiro3\\roteiro3.4\\pato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4959315-7EDA-421F-988B-F3E5A8E8205A}|Roteiro\\Roteiro.csproj|solutionrelative:roteiro\\roteiro3\\roteiro3.4\\pato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4959315-7EDA-421F-988B-F3E5A8E8205A}|Roteiro\\Roteiro.csproj|c:\\users\\rapos\\source\\repos\\roteiro\\roteiro\\roteiro3\\roteiro3.4\\ivoar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4959315-7EDA-421F-988B-F3E5A8E8205A}|Roteiro\\Roteiro.csproj|solutionrelative:roteiro\\roteiro3\\roteiro3.4\\ivoar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4959315-7EDA-421F-988B-F3E5A8E8205A}|Roteiro\\Roteiro.csproj|c:\\users\\rapos\\source\\repos\\roteiro\\roteiro\\roteiro3\\roteiro3.4\\inadar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4959315-7EDA-421F-988B-F3E5A8E8205A}|Roteiro\\Roteiro.csproj|solutionrelative:roteiro\\roteiro3\\roteiro3.4\\inadar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,73 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Aguia.cs",
-              "DocumentMoniker": "C:\\Users\\rapos\\source\\repos\\Roteiro\\Roteiro\\Roteiro3\\Roteiro3.4\\Aguia.cs",
-              "RelativeDocumentMoniker": "Roteiro\\Roteiro3\\Roteiro3.4\\Aguia.cs",
-              "ToolTip": "C:\\Users\\rapos\\source\\repos\\Roteiro\\Roteiro\\Roteiro3\\Roteiro3.4\\Aguia.cs*",
-              "RelativeToolTip": "Roteiro\\Roteiro3\\Roteiro3.4\\Aguia.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T15:23:55.303Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Peixe.cs",
-              "DocumentMoniker": "C:\\Users\\rapos\\source\\repos\\Roteiro\\Roteiro\\Roteiro3\\Roteiro3.4\\Peixe.cs",
-              "RelativeDocumentMoniker": "Roteiro\\Roteiro3\\Roteiro3.4\\Peixe.cs",
-              "ToolTip": "C:\\Users\\rapos\\source\\repos\\Roteiro\\Roteiro\\Roteiro3\\Roteiro3.4\\Peixe.cs*",
-              "RelativeToolTip": "Roteiro\\Roteiro3\\Roteiro3.4\\Peixe.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T15:23:35.571Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Pato.cs",
-              "DocumentMoniker": "C:\\Users\\rapos\\source\\repos\\Roteiro\\Roteiro\\Roteiro3\\Roteiro3.4\\Pato.cs",
-              "RelativeDocumentMoniker": "Roteiro\\Roteiro3\\Roteiro3.4\\Pato.cs",
-              "ToolTip": "C:\\Users\\rapos\\source\\repos\\Roteiro\\Roteiro\\Roteiro3\\Roteiro3.4\\Pato.cs*",
-              "RelativeToolTip": "Roteiro\\Roteiro3\\Roteiro3.4\\Pato.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T15:23:31.564Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "INadar.cs",
-              "DocumentMoniker": "C:\\Users\\rapos\\source\\repos\\Roteiro\\Roteiro\\Roteiro3\\Roteiro3.4\\INadar.cs",
-              "RelativeDocumentMoniker": "Roteiro\\Roteiro3\\Roteiro3.4\\INadar.cs",
-              "ToolTip": "C:\\Users\\rapos\\source\\repos\\Roteiro\\Roteiro\\Roteiro3\\Roteiro3.4\\INadar.cs*",
-              "RelativeToolTip": "Roteiro\\Roteiro3\\Roteiro3.4\\INadar.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T15:22:35.234Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IVoar.cs",
-              "DocumentMoniker": "C:\\Users\\rapos\\source\\repos\\Roteiro\\Roteiro\\Roteiro3\\Roteiro3.4\\IVoar.cs",
-              "RelativeDocumentMoniker": "Roteiro\\Roteiro3\\Roteiro3.4\\IVoar.cs",
-              "ToolTip": "C:\\Users\\rapos\\source\\repos\\Roteiro\\Roteiro\\Roteiro3\\Roteiro3.4\\IVoar.cs*",
-              "RelativeToolTip": "Roteiro\\Roteiro3\\Roteiro3.4\\IVoar.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T15:22:31.293Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -109,7 +24,7 @@
               "RelativeDocumentMoniker": "Roteiro\\Programa.cs",
               "ToolTip": "C:\\Users\\rapos\\source\\repos\\Roteiro\\Roteiro\\Programa.cs*",
               "RelativeToolTip": "Roteiro\\Programa.cs*",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAqwHAAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-09T15:47:08.624Z",
               "EditorCaption": ""
